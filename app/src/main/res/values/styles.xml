@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TabStyle">
+        <item name="tabMaxWidth">140dp</item>
+        <item name="tabPadding">2dp</item>
+        <item name="tabMinWidth">50dp</item>
+        <item name="tabMode">scrollable</item>
+    </style>
+</resources>
